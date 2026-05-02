@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# MLflow
+mlruns/
+mlflow/
+
+# Data
+data/resumes/*
+!data/resumes/.gitkeep
+
+# Local models
+*.pkl
+*.h5
+*.joblib
+
+# User-specific documentation
+how to run.md
