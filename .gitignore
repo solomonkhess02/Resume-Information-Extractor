@@ -46,3 +46,5 @@ data/resumes/*
 
 # User-specific documentation
 how to run.md
+INTERVIEW_PREP.md
+notebooks/eda.ipynb
